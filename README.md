@@ -2,7 +2,7 @@
 
 <p align = "center">
 
-<img src="https://github.com/Amina-Sagheer/miles/assets/172102325/7767abf2-8e25-4c32-b44c-18f8b47272ae" alt="U.S. States Game" width="500" height="500">
+<img src="https://github.com/Amina-Sagheer/miles/assets/172102325/7767abf2-8e25-4c32-b44c-18f8b47272ae" alt="Converter_gif" width="500" height="500">
 
 </p>
 
